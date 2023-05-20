@@ -55,24 +55,6 @@ body{
 nav ul{
     display: flex;
 }
-nav div.bar{
-    display: none;
-    position: absolute;
-    right: 80px;
-    margin-top: -10px;
-    font-size: 25px;
-    cursor: pointer;
-}
-nav div.bar.active .open{
-    display: none;
-}
-nav div.bar .close{
-    display: none;
-}
-nav div.bar.active .close{
-    display: initial;
-}
-
 nav ul li{
     list-style: none;
     margin: 0 15px;

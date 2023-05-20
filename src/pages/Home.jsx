@@ -1,4 +1,3 @@
-import './Home.css'
 import Image from '../assets/th-1260053239.jpeg'
 
 function Home() {

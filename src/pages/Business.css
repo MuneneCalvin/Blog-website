@@ -1,0 +1,58 @@
+/* .page2{
+    width: 100%;
+    background-color: #16161d;
+    min-height: 100vh;
+    padding: 50px;
+}
+.page2 .news{
+    padding: 30px 0;
+    border-bottom: 1px solid #555;
+}
+.page2 .news:last-child{
+    padding: 30px 0;
+    border-bottom: none;
+}
+.page2 .news > .title h2{
+    font-size: 40px;
+    cursor: pointer;
+    display: inline;
+}
+.page2 .news > .title h2:hover{
+    text-decoration: underline;
+}
+.page2 .news .newsBox{
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.page2 .news .newsBox .newsCard{
+    width: calc(100% / 5 - 20px);
+    margin: 10px;
+}
+.page2 .news .newsBox .newsCard .img{
+    width: 100%;
+    height: 150px;
+    background-color: #a04;
+    border-radius: 5px;
+}
+.page2 .news .newsBox .newsCard .img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.page2 .news .newsBox .newsCard .text{
+    padding: 10px;
+}
+.page2 .news .newsBox .newsCard .text .title a{
+    text-decoration: none;
+}
+.page2 .news .newsBox .newsCard .text .title a p{
+    font-size: 15px;
+    color: #fff;
+    display: inline;
+    cursor: pointer;
+}
+.page2 .news .newsBox .newsCard .title a p:hover{
+    text-decoration: underline;
+} */

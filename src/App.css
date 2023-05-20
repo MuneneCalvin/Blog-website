@@ -194,11 +194,10 @@ nav ul li a{
 .topHeadlines .right .topNews .news .text .title a p:hover{
     text-decoration: underline;
 }*/
-/*.page2{
+.page2{
     width: 100%;
     background-color: #16161d;
-    min-height: 100vh;
-    padding: 50px;
+    padding: 100px;
 }
 .page2 .news{
     padding: 30px 0;
@@ -208,15 +207,15 @@ nav ul li a{
     padding: 30px 0;
     border-bottom: none;
 }
-.page2 .news > .title h2{
+.page2 .title h2{
     font-size: 40px;
     cursor: pointer;
     display: inline;
 }
-.page2 .news > .title h2:hover{
+.page2 .title h2:hover{
     text-decoration: underline;
 }
-.page2 .news .newsBox{
+/*.page2 .news .newsBox{
     width: 100%;
     margin-top: 20px;
     display: flex;
